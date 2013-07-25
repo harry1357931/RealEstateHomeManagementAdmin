@@ -31,3 +31,21 @@ Check all images whose name starts with 'SampleOutput_...png'
 For more Info. on this Project:
 ===============================
 Check File: <b>'Project4.java'</b> and read comments in it, and then run it...
+
+In src Folder
+=============
+<b>File Containing Main Method:</b><br>
+Project4.java
+
+<b>OOP-Inheritance:</b><br>
+
+Class <b>House</b>:
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Inherited by classes <b<b>>PrivateHouse</b>, <b>/Apartment</b> and <b>Condominium</b> <br>
+Class <b>HouseList</b>:
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Inherited by classes <b>SortedHouseList</b> and <b>UnsortedHouseList</b> <br>
+Class <b>IllegalArgumentException</b>:
+<br> &nbsp;&nbsp;&nbsp;&nbsp;Inherited by classes <b>IllegalHouseException</b> and <b>HouseTextFormatException</b> <br>
+
+
+
+
