@@ -5,9 +5,12 @@ Project4.java
 OOP-Inheritance:
 ================
 
-Class House: Inherited by classes PrivateHouse, Apartment and Condominium <br>
-Class HouseList: Inherited by classes SortedHouseList and UnsortedHouseList <br>
-Class IllegalArgumentException: Inherited by classes IllegalHouseException and HouseTextFormatException <br>
+Class <b>House</b>:
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Inherited by classes PrivateHouse, Apartment and Condominium <br>
+Class <b>HouseList</b>:
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Inherited by classes SortedHouseList and UnsortedHouseList <br>
+Class <b>IllegalArgumentException</b>:
+<br> &nbsp;&nbsp;&nbsp;&nbsp;Inherited by classes IllegalHouseException and HouseTextFormatException <br>
 
 
 
